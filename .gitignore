@@ -1,0 +1,6 @@
+.idea
+.env
+manage.py
+
+menutree_task/__pycache__
+
