@@ -4,3 +4,5 @@ manage.py
 
 menutree_task/__pycache__
 
+menu/migrations
+menu/__pycache__
